@@ -1,0 +1,8 @@
+C:\Users\WIN8\Documents\Visual Studio 2010\Projects\Metnum1.vb\Metnum1.vb\bin\Debug\Metnum1.vb.exe
+C:\Users\WIN8\Documents\Visual Studio 2010\Projects\Metnum1.vb\Metnum1.vb\bin\Debug\Metnum1.vb.pdb
+C:\Users\WIN8\Documents\Visual Studio 2010\Projects\Metnum1.vb\Metnum1.vb\bin\Debug\Metnum1.vb.xml
+C:\Users\WIN8\Documents\Visual Studio 2010\Projects\Metnum1.vb\Metnum1.vb\obj\x86\Debug\Metnum1.vb.Resources.resources
+C:\Users\WIN8\Documents\Visual Studio 2010\Projects\Metnum1.vb\Metnum1.vb\obj\x86\Debug\Metnum1.vb.vbproj.GenerateResource.Cache
+C:\Users\WIN8\Documents\Visual Studio 2010\Projects\Metnum1.vb\Metnum1.vb\obj\x86\Debug\Metnum1.vb.exe
+C:\Users\WIN8\Documents\Visual Studio 2010\Projects\Metnum1.vb\Metnum1.vb\obj\x86\Debug\Metnum1.vb.xml
+C:\Users\WIN8\Documents\Visual Studio 2010\Projects\Metnum1.vb\Metnum1.vb\obj\x86\Debug\Metnum1.vb.pdb
